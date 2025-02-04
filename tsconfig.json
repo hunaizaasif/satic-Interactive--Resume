@@ -8,6 +8,5 @@
       "strict": true,
       "noImplicitAny": false
   },
-  "files": ["script.ts"],
-  "include": ["./**/*.ts", "./**/*"]
+  "files": ["script.ts"]
 }
