@@ -1,12 +1,13 @@
+
 {
   "compilerOptions": {
       "target": "es6",
       "module": "es6",
-      "outDir": "./",
+      "outDir": "dist",
       "rootDir": "./",
       "sourceMap": true,
       "strict": true,
-      "noImplicitAny": false
+       "noImplicitAny": false
   },
   "files": ["script.ts"]
 }
